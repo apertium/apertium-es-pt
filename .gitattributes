@@ -1,0 +1,26 @@
+* text=auto !eol
+/AUTHORS -text
+/COPYING -text
+/ChangeLog -text
+/INSTALL -text
+/Makefile.am -text
+/NEWS -text
+/README -text
+/apertium-es-pt.es-pt.dix -text
+/apertium-es-pt.es.dix -text
+/apertium-es-pt.es.tsx -text
+/apertium-es-pt.post-es.dix -text
+/apertium-es-pt.post-pt.dix -text
+/apertium-es-pt.pt.dix -text
+/apertium-es-pt.pt.tsx -text
+/apertium-es-pt.trules-es-pt.xml -text
+/apertium-es-pt.trules-pt-es.xml -text
+/autogen.sh -text
+/configure.ac -text
+/es-pt.prob -text svneol=unset#unset
+/filter.sh -text
+/filter.xsl -text
+/filterrules.sh -text
+/filterrules.xsl -text
+/modes.xml -text
+/pt-es.prob -text svneol=unset#unset
