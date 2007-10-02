@@ -24,3 +24,28 @@
 /filterrules.xsl -text
 /modes.xml -text
 /pt-es.prob -text svneol=unset#unset
+tags/release-1.0.3/AUTHORS -text
+tags/release-1.0.3/COPYING -text
+tags/release-1.0.3/ChangeLog -text
+tags/release-1.0.3/INSTALL -text
+tags/release-1.0.3/Makefile.am -text
+tags/release-1.0.3/NEWS -text
+tags/release-1.0.3/README -text
+tags/release-1.0.3/apertium-es-pt.es-pt.dix -text
+tags/release-1.0.3/apertium-es-pt.es.dix -text
+tags/release-1.0.3/apertium-es-pt.es.tsx -text
+tags/release-1.0.3/apertium-es-pt.post-es.dix -text
+tags/release-1.0.3/apertium-es-pt.post-pt.dix -text
+tags/release-1.0.3/apertium-es-pt.pt.dix -text
+tags/release-1.0.3/apertium-es-pt.pt.tsx -text
+tags/release-1.0.3/apertium-es-pt.trules-es-pt.xml -text
+tags/release-1.0.3/apertium-es-pt.trules-pt-es.xml -text
+tags/release-1.0.3/autogen.sh -text
+tags/release-1.0.3/configure.ac -text
+tags/release-1.0.3/es-pt.prob -text svneol=unset#unset
+tags/release-1.0.3/filter.sh -text
+tags/release-1.0.3/filter.xsl -text
+tags/release-1.0.3/filterrules.sh -text
+tags/release-1.0.3/filterrules.xsl -text
+tags/release-1.0.3/modes.xml -text
+tags/release-1.0.3/pt-es.prob -text svneol=unset#unset
