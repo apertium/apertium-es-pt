@@ -17,10 +17,14 @@
 /apertium-es-pt.trules-pt-es.xml -text
 /autogen.sh -text
 /configure.ac -text
+/es-pt-supervised.make -text
+/es-pt-unsupervised.make -text
 /es-pt.prob -text svneol=unset#unset
 /filter.sh -text
 /filter.xsl -text
 /filterrules.sh -text
 /filterrules.xsl -text
 /modes.xml -text
+/pt-es-supervised.make -text
+/pt-es-unsupervised.make -text
 /pt-es.prob -text svneol=unset#unset
