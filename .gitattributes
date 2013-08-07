@@ -2,8 +2,6 @@
 /AUTHORS -text
 /COPYING -text
 /ChangeLog -text
-/Europarl.biltrans-entries.pt-es -text
-/Europarl3.ngrams.pt-es.lrx -text
 /INSTALL -text
 /Makefile.am -text
 /NEWS -text
@@ -19,6 +17,8 @@
 /apertium-es-pt.pt.tsx -text
 /autogen.sh -text
 /configure.ac -text
+dev/Europarl.biltrans-entries.pt-es -text
+dev/Europarl3.ngrams.pt-es.lrx -text
 /es-pt-supervised.make -text
 /es-pt-unsupervised.make -text
 /es-pt.prob -text svneol=unset#unset
