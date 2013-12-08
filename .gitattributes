@@ -19,6 +19,10 @@
 /configure.ac -text
 dev/Europarl3.biltrans-entries.pt-es -text
 dev/Europarl3.ngrams.pt-es.lrx -text
+dev/textos-que-rompen-el-formato-html/README -text
+dev/textos-que-rompen-el-formato-html/t1.html -text
+dev/textos-que-rompen-el-formato-html/t2.html -text
+dev/textos-que-rompen-el-formato-html/t3.html -text
 /es-pt-supervised.make -text
 /es-pt-unsupervised.make -text
 /es-pt.prob -text svneol=unset#unset
