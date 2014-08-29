@@ -11,7 +11,16 @@
 /config.log
 /config.status
 /configure
+/es-pt.dix
+/es-pt.t1x
+/es-pt_BR.dix
+/es-pt_BR.t1x
 /install-sh
 /missing
 /modes
+/post-pt.dix
+/post-pt_BR.dix
+/pt-es.t1x
+/pt.dix
+/pt_BR.dix
 /stamp-h1
